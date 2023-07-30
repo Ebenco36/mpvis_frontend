@@ -1,0 +1,5 @@
+export NODE_OPTIONS=--openssl-legacy-provider
+
+npx prettier --write "src/**/*.vue"
+
+https://www.notion.so/seamlesshr/Fiscal-Year-Attempt-7d26f4cfbfb84d58809c3cf5aa76ad79?pvs=4
